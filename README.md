@@ -7,12 +7,12 @@
 ## Sobre :brazil:
 Projeto Prático do segundo semestre do curso de Ciência da Computação da matéria de **Laboratorio de programação mobile** do [Centro Universitário do Estado do Pará](https://www.cesupa.br/). 
 
-Consiste em jogo de Jokenpo onde o jogador compete com a CPU
+Consiste em jogo de Jokenpo onde o jogador compete com a CPU.
 
 ## About :us:
 Practical Project of the second semester of the Computer Science course of the subject of **Laboratory of mobile programming** of the [University Center of the State of Pará](https://www.cesupa.br/).
 
-It consists of a Jokenpo game where the player competes with the CPU
+It consists of a Jokenpo game where the player competes with the CPU.
 
 ## Discentes | Students :man_technologist: :octocat:
 
