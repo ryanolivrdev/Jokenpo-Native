@@ -34,7 +34,7 @@ It consists of a Jokenpo game where the player competes with the CPU.
 
 This is a React Native project bootstrapped with [`npx create-expo-app my-app`](https://docs.expo.dev/).
 
-## Installing / Getting started
+## Installing / Getting started :floppy_disk:
 
 A quick introduction to the minimum configuration you need to run the application up and running.
 
@@ -61,8 +61,11 @@ First, run the development server:
   - [Rocketseat](https://react-native.rocketseat.dev/ "https://react-native.rocketseat.dev/")
   - [Github](https://github.com/AnthonyMRodrigues/docsreactnative/blob/master/docs/GettingStartedPortuguese.md)
 
+## License :memo:
 
-## Learn More
+This project is under the MIT license.
+
+## Learn More :open_book:
 
 You can learn more in the [Expo](https://docs.expo.dev/tutorial/planning/).
 
